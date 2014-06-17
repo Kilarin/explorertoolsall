@@ -16,7 +16,7 @@ And it doesn't have to be a torch.  Perhaps you are building a project that requ
 My son helped me with the idea, the programming, and the textures.  Thanks to kaeza for sample code of how to get the inventory item to the right of the tool, and to PilzAdam and Stu for answering my questions about how the uses field works.  The original version only gave the right click onplace ability to 3 specially crafted tools. 4aiman came up with the way to apply this on_place function to every pick, axe, and shovel in the game.  Explorer Tools All is just a slightly modified version of his code.
 
 **Dependencies:**<p>
-None.  But if you have any special tool mods that you want to have this ability, they should be added as soft dependencies to this mod.
+Soft depends on default.  If you have any tool mods that you want to have this ability, they should be added as soft dependencies to this mod so that they will be loaded before this mod.  Let me know about any mods you'd like added as soft dependencies to the basic mod and I'll put them in there.  (Or just do a pull request in github)
 
 **Incompatibilities:**<p>
 Do not use with Inventory Tweak mod, on right click your tool will disappear!
