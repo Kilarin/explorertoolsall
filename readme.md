@@ -25,10 +25,10 @@ Do not use with Inventory Tweak mod, on right click your tool will disappear!
 gplv3
 
 **To browse source:**<p>
-[https://github.com/Kilarin/explorerroolsall](https://github.com/Kilarin/explorerroolsall)
+[https://github.com/Kilarin/explorertoolsall](https://github.com/Kilarin/explorertoolsall)
 
 **Download:**<p>
-[https://github.com/Kilarin/explorerroolsall/archive/master.zip](https://github.com/Kilarin/explorerroolsall/archive/master.zip)
+[https://github.com/Kilarin/explorertoolsall/archive/master.zip](https://github.com/Kilarin/explorertoolsall/archive/master.zip)
 
 **To install:**<p>
 Simply unzip the file into your mods folder, and rename the folder to explorertoolsall<p>
