@@ -1,4 +1,4 @@
-This MineTest mod adds the ability for every pick, axe, and shovel in the game to not only dig on a left click, but place whatever item is in the inventory slot immediately to its right on a right click.
+Adds the ability for every pick, axe, and shovel in the game to not only dig on a left click, but place whatever item is in the inventory slot immediately to its right on a right click.
 
 **Explorer Tools All Version 1.0**
 

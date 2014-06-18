@@ -1,5 +1,5 @@
 [b]Explorer Tools All Version 1.0[/b]
-This MineTest mod adds the ability for every pick, axe, and shovel in the game to not only dig on a left click, but place whatever item is in the inventory slot immediately to its right on a right click.
+Adds the ability for every pick, axe, and shovel in the game to not only dig on a left click, but place whatever item is in the inventory slot immediately to its right on a right click.
 
 Have you ever been frustrated when digging a mine or exploring a cavern because you have to dig, dig, dig, then swap the active inventory item to a torch, place a torch, swap the active inventory item back to your pick, and repeat?  Did you ever wish that you could just place a torch (or a block of stone or glass) with a right click while still wielding your pick, axe, or shovel?  If so, then this mod is for you!
 
