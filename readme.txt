@@ -20,8 +20,7 @@ Soft depends on default.  If you have any tool mods that you want to have this a
 [b]Incompatibilities:[/b]
 Do not use with Inventory Tweak mod, on right click your tool will disappear!
 
-[b]License:[/b]
-gplv3
+[b]License:[/b] gplv3
 
 [b]To browse source:[/b]
 [url]https://github.com/Kilarin/explorertoolsall[/url]
