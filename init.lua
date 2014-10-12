@@ -22,12 +22,9 @@ function explorertools_place(item, player, pointed)
   local inv = player:get_inventory()
   local stack = inv:get_stack("main", idx) --stack=stack to right of tool
   if pointed ~= nil then
-    local success
     --attempt to place stack where tool was pointed
-    stack, success = minetest.item_place(stack, player, pointed)
-    if success then  --if item was placed, put modified stack back in inv
-      inv:set_stack("main", idx, stack)
-    end --success
+    stack = minetest.item_place(stack, player, pointed)
+    inv:set_stack("main", idx, stack)
   end --pointed ~= nil
 end --function explorertools_place
 
