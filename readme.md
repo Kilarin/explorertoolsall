@@ -1,6 +1,6 @@
 Adds the ability for every pick, axe, and shovel in the game to not only dig on a left click, but place whatever item is in the inventory slot immediately to its right on a right click.
 
-**Explorer Tools All Version 1.0**
+**Explorer Tools All Version 1.1**
 
 Have you ever been frustrated when digging a mine or exploring a cavern because you have to dig, dig, dig, then swap the active inventory item to a torch, place a torch, swap the active inventory item back to your pick, and repeat?  Did you ever wish that you could just place a torch (or a block of stone or glass) with a right click while still wielding your pick, axe, or shovel?  If so, then this mod is for you!
 
@@ -36,3 +36,10 @@ OR, simply install it directly from minetest using the online mod repository.
 **Mod Database:**<p>
 If you use this mod, please consider reviewing it on the MineTest Mod Database.<p>
 [https://forum.minetest.net/mmdb/mod/explorertoolsall/](https://forum.minetest.net/mmdb/mod/explorertoolsall/)<p>
+
+**Change Log:**<p>
+1.1 pull from kaeza Force-update stack instead of relying on success indicator.
+    This eliminates a problem where using explorertoolsall and an itemframe would
+    allow you to duplicate items.  And, to my surprise, it does not seem to cause
+    you to lose items when you can't place the stack.
+1.0 initial release
