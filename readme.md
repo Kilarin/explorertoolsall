@@ -45,5 +45,6 @@ OR, simply install it directly from minetest using the ContentDB.
     This eliminates a problem where using explorertoolsall and an itemframe would
     allow you to duplicate items.  And, to my surprise, it does not seem to cause
     you to lose items when you can't place the stack.
+    
 1.0 initial release
 
