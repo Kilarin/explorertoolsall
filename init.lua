@@ -5,7 +5,7 @@
 --special explorer tools with their own recipie, gave this "place on rightclick"
 --ability to every pick, axe, and shovel in the game.  This version is a slight
 --modification of his version.
---License:GPLv3 http://gplv3.fsf.org/
+--License:MIT
 
 ---
 ---Function
